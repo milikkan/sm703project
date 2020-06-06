@@ -10,6 +10,6 @@ public class Adder {
         System.out.println("Hello...");
         System.out.println("Welcome to Addatron. This is a sophisticated adder tool.");
         Adder adder = new Adder();
-        System.out.println("Adding 3 and 5:" + adder.addNumbers(3, 5));
+        System.out.println("Adding 3 and 5 result is " + adder.addNumbers(3, 5));
     }
 }
